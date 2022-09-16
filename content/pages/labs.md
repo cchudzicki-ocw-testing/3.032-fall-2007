@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section presents the four labs that occur during the semester. For
+  safety reasons, the lab procedures are not included; the instructors may be contacted
+  for further information.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

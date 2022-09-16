@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents the problem sets and solutions for the Fall '07
+  version of 3.032, as well as some from Fall '06 that were handed out to the students.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
